@@ -8,7 +8,7 @@ This is a group activity - you will be split into groups. Someone needs to be th
 
 ---
 
-### ** Choose Your Dataset **
+### **Choose Your Dataset**
 
 * Pick a dataset that matters to your role or organisation.
 * Examples:
@@ -23,7 +23,7 @@ If you don’t have a dataset in mind, use a simple shared one provided by the t
 
 ---
 
-### ** Identify the Hero **
+###  Identify the Hero 
 
 * In data storytelling, the hero is your **audience**.
 * Ask: *Who needs to make a decision with this data?*
@@ -37,7 +37,7 @@ Write this into the “Hero” box on your template.
 
 ---
 
-### ** Define the Problem **
+### **Define the Problem**
 
 * What challenge does your dataset highlight?
 * Frame it as a **business problem**, not just a data point.
@@ -49,7 +49,7 @@ Fill in the “Problem” box on your template.
 
 ---
 
-### ** Position the Guide **
+### **Position the Guide**
 
 * Remember: you (the analyst/consultant) are not the hero. You are the **guide**.
 * Think: *What role do I play in helping my audience understand and act on this problem?*
@@ -59,7 +59,7 @@ Write your role in the “Guide” box.
 
 ---
 
-### ** Outline the Plan **
+### **Outline the Plan**
 
 * Translate insights into a **clear, simple narrative arc**:
 
@@ -72,7 +72,7 @@ Fill in the “Plan” box.
 
 ---
 
-### ** Call to Action **
+### **Call to Action**
 
 * Define the **decision or action** your audience should take.
 * Make it specific and actionable.
@@ -82,7 +82,7 @@ Write this in the “CTA” box.
 
 ---
 
-### ** State the Stakes **
+### **State the Stakes**
 
 * Show the **impact of action vs inaction**:
 
@@ -94,7 +94,7 @@ Add this to the “Stakes” box.
 
 ---
 
-###  Share & Discuss **
+### Share & Discuss**
 
 *We will reconvene and each group will present their findings back to the class
 * Pair up or form small groups.

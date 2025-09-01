@@ -37,7 +37,7 @@ Throughout the lab:
 
 ---
 
-## 1. Introduction & Setup (10 minutes)
+## 1. Introduction & Setup
 
 **Purpose:** Set the stage, form groups, clarify objectives, and introduce the storytelling framework.  
 
@@ -53,7 +53,7 @@ Bettershire Council has a new complaints system. The hero might be the **Head of
 
 ---
 
-## 2. Identify the Hero and Problem (10 minutes)
+## 2. Identify the Hero and Problem 
 
 **Purpose:** Establish the **beginning** of your story.  
 
@@ -67,7 +67,7 @@ Maria, the Customer Service Director at Bettershire Council, faces a 25% surge i
 
 ---
 
-## 3. Introduce the Guide and Outline the Plan (10 minutes)
+## 3. Introduce the Guide and Outline the Plan
 
 **Purpose:** Transition to the **middle** – define the guide and outline the plan.  
 
@@ -85,7 +85,7 @@ The Data & Insights team becomes Maria’s guide. Our plan: analyse by category 
 
 ---
 
-## 4. Explore Data Insights – The Story’s Middle (15 minutes)
+## 4. Explore Data Insights – The Story’s Middle
 
 **Purpose:** Uncover insights that support the story.  
 
@@ -101,7 +101,7 @@ Housing repair complaints = 45% of all cases, peaking in January. Only 60% resol
 
 ---
 
-## 5. Define the Outcome and Stakes (10 minutes)
+## 5. Define the Outcome and Stakes 
 
 **Purpose:** Establish the **ending scenarios** – success vs failure.  
 
@@ -116,7 +116,7 @@ Housing repair complaints = 45% of all cases, peaking in January. Only 60% resol
 
 ---
 
-## 6. Craft a Clear Call to Action (5 minutes)
+## 6. Craft a Clear Call to Action 
 
 **Purpose:** Deliver the recommendation.  
 
@@ -131,7 +131,7 @@ Housing repair complaints = 45% of all cases, peaking in January. Only 60% resol
 
 ---
 
-## 7. Build the Narrative Arc (10 minutes)
+## 7. Build the Narrative Arc 
 
 **Purpose:** Assemble a coherent story.  
 
@@ -151,7 +151,7 @@ Housing repair complaints = 45% of all cases, peaking in January. Only 60% resol
 
 ---
 
-## 8. Group Presentations & Debrief (15–20 minutes)
+## 8. Group Presentations & Debrief 
 
 **Purpose:** Share and reflect.  
 

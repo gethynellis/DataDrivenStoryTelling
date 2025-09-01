@@ -90,14 +90,4 @@ Bettershire Council’s first six months with the new Complaints Management Syst
 
 As more data accrues, Bettershire Council will move from reporting baselines to demonstrating sustained improvement — closing the loop between citizen feedback and tangible service excellence.
 
----
 
-👉 This streamlined version is easier for **workshop participants** to use when:
-
-* Mapping stakeholders.
-* Identifying stories in the data.
-* Practising narrative frameworks (e.g. hero, problem, guide, plan, stakes).
-
----
-
-Would you like me to also create a **shorter, workshop-ready handout version** (1–2 pages with just the essentials + some blank space for participant notes), so you can give it out as a working document during activities?

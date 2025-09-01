@@ -8,7 +8,7 @@ Help participants practise identifying, categorising, and managing stakeholders 
 
 ---
 
-## Step 1: Introduce the Tool (10 mins)
+## Step 1: Introduce the Tool 
 
 * Briefly explain the **Stakeholder Management Grid (Power–Interest Matrix)**:
 
@@ -20,7 +20,7 @@ Help participants practise identifying, categorising, and managing stakeholders 
 
 ---
 
-## Step 2: Group Brainstorm – Identify Stakeholders (15 mins)
+## Step 2: Group Brainstorm – Identify Stakeholders 
 
 In breakout groups (3–5 people):
 
@@ -41,7 +41,7 @@ Example starter list from the case:
 
 ---
 
-## Step 3: Place Stakeholders on the Grid (20 mins)
+## Step 3: Place Stakeholders on the Grid 
 
 <img width="1180" height="1180" alt="image" src="https://github.com/user-attachments/assets/7ae51d68-5a0c-4a9b-8a15-72a783175139" />
 
@@ -57,7 +57,7 @@ Example starter list from the case:
 
 ---
 
-## Step 4: Stakeholder Management Strategies (20 mins)
+## Step 4: Stakeholder Management Strategies 
 
 * For 2–3 key stakeholders in each quadrant, write down:
 
@@ -68,7 +68,7 @@ Example starter list from the case:
 
 ---
 
-## Step 5: Group Presentations (15 mins)
+## Step 5: Group Presentations 
 
 * Each group presents their grid and explains:
 
@@ -78,7 +78,7 @@ Example starter list from the case:
 
 ---
 
-## Step 6: Wrap-Up & Reflection (10 mins)
+## Step 6: Wrap-Up & Reflection 
 
 Facilitator-led discussion:
 

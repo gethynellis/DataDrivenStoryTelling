@@ -1,6 +1,6 @@
 
 
-## **Exercise: Apply StoryBrand to Your Data**
+## **Exercise: Apply Data Story Framework to Your Data**
 
 **Goal:** Learn to frame a data story using the *Building a Data Story* framework so that your insights drive action.
 
@@ -101,11 +101,4 @@ Add this to the “Stakes” box.
 * Present your  data story in **2 minutes each**.
 * Provide feedback: Was the problem clear? Was the CTA compelling?
 
----
 
-
-Participants fill it in as they go.
-
----
-
-Would you like me to **design the blank StoryBrand template** (a clean, fill-in-the-boxes visual you can drop into your slide)?

@@ -2,7 +2,7 @@
 
 ## **Exercise: Apply StoryBrand to Your Data**
 
-**Goal:** Learn to frame a data story using the *Building a StoryBrand* framework so that your insights drive action.
+**Goal:** Learn to frame a data story using the *Building a Data Story* framework so that your insights drive action.
 
 This is a group activity - you will be split into groups. Someone needs to be the scribe to jot down your notes and thoughts to these steps and present them back to the class
 
